@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // Generate a QR code for a payment URL (demo)
-    generateQRCode('https://github.com/GouthamGOT777/GOTEA/blob/main/PAYMENT.png');
+    generateQRCode('https://rzp.io/i/EH0fdTfa');
 
     function generateQRCode(paymentURL) {
         const qrCode = document.getElementById('qrCode');
